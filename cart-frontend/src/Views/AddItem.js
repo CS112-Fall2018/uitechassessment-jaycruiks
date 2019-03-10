@@ -54,7 +54,6 @@ export default class AddItem extends Component {
 
     }
 
-
     render () {                                   
        return (
         <form onSubmit={this.handleSubmit}>
